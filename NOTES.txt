@@ -1,0 +1,16 @@
+Strong vs Weak Lab Taxonomies
+- The single most important design decision in this project is your labels. Weak labels produce models that learn nothing useful.
+- Two annotators will apply it differently, and the model will lkearn an inconsistent signal. The boundary is also impossible to specify:
+What makes one reaction post "good" and another "bad"?
+    - 'analysis': the post makes a structured argument backed by statistics, historical comparison, or tactical observatrion. Evidence is specificm and verifiable
+    - 'hot_take': a bold, confident opinion stated without supporting evidence. The claim might be true, but the post asserts rather than argues
+    - reaction - an immeidate emotional response to a specific event. Little to no argument - the post is expressing a feeling in the moment
+
+
+while trying to pinpoint the M1:
+'analysis' examples:
+    - "Born to play basketball, Jalen brunson": THe long post lists every award from high school through NVA, this is a case.
+    - "Greates players who have gone four striaght Seasons wihtout Winning a Playoff series?
+
+
+They want 200 total results thats insane perhaps some sort scraper with Reddit API 
